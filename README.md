@@ -17,7 +17,7 @@
 
 ⚡ Fun fact I ~~hate~~ **now love what I am doing**.
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">🛠️Languages and Tools</h2>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
@@ -29,7 +29,7 @@
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
+<h2 align="left">⭐Stars</h2>
 <p>&nbsp;
   <img  src="https://github-readme-stats.vercel.app/api/?username=HarryLee02&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=en" alt="HarryLee02" />
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=HarryLee02&theme=tokyonight&hide_border=true&exclude_days=Sun%2CSat&fire=BAEB39&stroke=4EEBC2" alt="GitHub Streak" /></a>
@@ -41,7 +41,7 @@
 
 &nbsp;<img src="https://tryhackme-badges.s3.amazonaws.com/HarryLee02.png" alt="HarryLee Image Badge" />
 
-<h2 align="left">⚡Activity Graph:</h2>
+<h2 align="left">⚡Activity Graph</h2>
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=HarryLee02&theme=redical"/>
 
